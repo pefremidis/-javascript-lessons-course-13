@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@braid/vue-formulate": "^2.4.5",
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^5.0.0-beta1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
